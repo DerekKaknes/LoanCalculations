@@ -1,5 +1,6 @@
-**Sample Loan Calculations
+#Sample Loan Calculations
 
+##Loan Class
 `class Loan`
 Assumes a loan class that holds at least balance, term, rate attributes as well
 as a monthly boolean attribute that describes whether the term is (not the rate)
